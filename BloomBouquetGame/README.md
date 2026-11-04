@@ -28,10 +28,11 @@ Mute / unmute	M
 Play again (after game over)	R, ENTER, SPACE or click
 Back to menu (after game over)	ESC
 
-Project Structure
+Project Stucture
 BloomBouquetGame/
-├── flower.py    # the entire game
-├── README.md           # this file
-├── requirements.txt    # pygame>=2.0
+├── flower.py          ← Main game
+├── requirements.txt
+├── README.md
+└── assets/         
 
 
