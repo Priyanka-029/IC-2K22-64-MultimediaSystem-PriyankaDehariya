@@ -1,7 +1,7 @@
 'use strict';
 /* BLOOM BOUQUET - HTML5 canvas version.
    Customization: WIND GUST event (edit CFG below to personalise). */
-const CFG = { title: 'BLOOM BOUQUET', name: 'Your Name Here', lives: 3,
+const CFG = { title: 'BLOOM BOUQUET', name: 'Priyanka Dehariya', lives: 3,
   windEvery: 15, windDur: 5, windStr: 150, tBase: 18, tPer: 6 };
 
 const cv = document.getElementById('c'), ctx = cv.getContext('2d'), W = 800, H = 600, G = 535;
