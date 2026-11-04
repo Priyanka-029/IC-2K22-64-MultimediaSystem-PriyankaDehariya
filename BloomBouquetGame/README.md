@@ -32,7 +32,6 @@ Project Stucture
 BloomBouquetGame/
 ├── flower.py          ← Main game
 ├── requirements.txt
-├── README.md
-└── assets/         
+├── README.md      
 
 
